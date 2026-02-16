@@ -34,12 +34,14 @@ By working through this project, you will learn:
 ---
 
 ## 📁 Project Structure
-Go-Sql-Pipeline/
-├── create-tables.sql   # SQL schema definition
-├── go.mod              # Go module definition
-├── go.sum              # Dependency lock file
-├── main.go             # Main Go application
-└── README.md           # Project documentation
+
+- Go-Sql-Pipeline/
+  - create-tables.sql   # SQL schema definition
+  - go.mod              # Go module configuration
+  - go.sum              # Dependency lock file
+  - main.go             # Main Go application
+  - README.md           # Project documentation
+
 
 ---
 
