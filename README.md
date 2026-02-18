@@ -1,7 +1,7 @@
 
 ---
 
-# 🐹 Go SQL Pipeline (Go + PostgreSQL)
+# 🐹 Go SQL Pipeline (Go + MYSQL)
 
 A simple Go-based SQL pipeline project that demonstrates how to:
 
